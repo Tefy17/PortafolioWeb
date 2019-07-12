@@ -1,0 +1,21 @@
+.fondo{
+	background:url("https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=30c7VWmEO1$F0WOmwmdfdc$daE2N3K4ZzOUsqbU5sYtYSJPiqP_s2dlhAtAnLOKD6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg")no-repeat fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	height:560px;
+	width:100%;
+}
+.fondo1{
+	background: url("http://tecnogimp.pbworks.com/f/20061211194410-paisaje.gif") no-repeat fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	height:560px;
+	width:100%;
+}
+.colorletra{
+	color:#ffffff;
+}
